@@ -1,4 +1,4 @@
-# Atom Template
+# Sai Gandhi Template
 
 Thank you for using this template! We hope you can use it to make your next web project a success!
 
